@@ -9,8 +9,11 @@ $factory->define(Conference::class, function (Faker $faker) {
     return [
         'name'        => $faker->name,
         'description' => $faker->text,
+        'edition'     => $faker->randomDigitNotNull,
         'url'         => $faker->url,
         'from'        => $faker->date,
         'to'          => $faker->date,
+        'city'        => $faker->city,
+        'state'       => $faker->stateAbbr,
     ];
 });

@@ -17,10 +17,14 @@ class CreateConferencesTable extends Migration
             $table->bigIncrements('id');
             $table->string('name');
             $table->text('description')->nullable();
+            $table->text('edition')->nullable();
             $table->string('url')->nullable();
             $table->date('from')->nullable();
             $table->date('to')->nullable();
+            $table->string('city')->nullable();
+            $table->string('state', 2)->nullable();
             $table->timestamps();
+            $table->softDeletes();
         });
     }
 
