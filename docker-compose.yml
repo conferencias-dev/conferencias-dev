@@ -1,0 +1,50 @@
+
+version: '2'
+
+services:
+
+  nginx:
+    image: vtrgomes/nginx-alpine:latest
+    ports:
+      - 80:80
+    volumes_from:
+      - php
+    networks:
+      - app-network
+    links:
+      - php
+      - mysql
+
+  php:
+    image: vtrgomes/composer-alpine:7.3
+    user: app
+    volumes:
+      - ./composer-cache:/composer/cache
+      - ./:/var/www/app
+    networks:
+      - app-network
+
+  mysql:
+    image: vtrgomes/mysql-57:latest
+    volumes:
+      - ./db-data:/var/lib/mysql
+    environment:
+      MYSQL_DATABASE: conferences
+      MYSQL_USER: conferences
+      MYSQL_PASSWORD: secret
+      MYSQL_ROOT_PASSWORD: root
+    expose:
+      - 3306
+    ports:
+      - 3306:3306
+    networks:
+      - app-network
+
+
+volumes:
+  composer-cache:
+    driver: local
+
+networks:
+  app-network:
+    driver: bridge
