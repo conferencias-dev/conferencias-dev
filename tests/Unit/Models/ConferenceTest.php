@@ -2,9 +2,9 @@
 
 namespace Tests\Feature\Models;
 
+use Tests\TestCase;
 use App\Models\Conference;
 use Illuminate\Foundation\Testing\RefreshDatabase;
-use Tests\TestCase;
 
 class ConferenceTest extends TestCase
 {
