@@ -58,15 +58,6 @@
         ],
         "post-create-project-cmd": [
             "@php artisan key:generate --ansi"
-        ],
-        "php-cs-fixer": [
-            "./vendor/bin/php-cs-fixer fix --verbose --config=.php_cs"
-        ],
-        "phpunit": [
-            "./vendor/bin/phpunit"
-        ],
-        "phpunit-coverage-html": [
-            "./vendor/bin/phpunit --coverage-html coverage"
         ]
     }
 }

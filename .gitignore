@@ -13,5 +13,6 @@ yarn-error.log
 .idea/
 .php_cs.cache
 phpunit.xml
-coverage/
 .vscode/
+db-data/
+composer-cache/
