@@ -1,4 +1,4 @@
-preset: recommended
+preset: laravel
 
 enabled:
   - long_array_syntax
@@ -6,23 +6,11 @@ enabled:
   - unalign_double_arrow
 
 disabled:
-  - align_double_arrow
-  - short_array_syntax
+  - unused_use
 
 finder:
-  exclude:
-    - "tests"
   name:
     - "*.php"
   not-name:
-    - "*Stub.php"
-  contains:
-    - "Foo"
-  not-contains:
-    - "config"
-  path:
-    - "foo/Stuff"
-  not-path:
-    - "libraries"
-  depth:
-    - "< 3"
+    - "*index.php"
+    - "*server.php"
