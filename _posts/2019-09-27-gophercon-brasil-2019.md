@@ -1,0 +1,18 @@
+---
+layout: post
+title: "GopherCon Brasil 2019"
+date: 2019-09-27
+description: 'O maior evento na América Latina dedicado à linguagem de programação Go.'
+main-class: 'dev'
+color: '#7AAB13'
+tags:
+- go
+- sc
+categories:
+twitter_text: 'O maior evento na América Latina dedicado à linguagem de programação Go.'
+introduction: 'O maior evento na América Latina dedicado à linguagem de programação Go.'
+---
+
+A GopherCon Brasil 2019 ocorrerá nos dias 27 a 28 de setembro (no Hotel Canasvieiras Internacional), na cidade de Florianópolis-SC.
+
+Mais informações em: [http://2019.gopherconbr.org](http://2019.gopherconbr.org)

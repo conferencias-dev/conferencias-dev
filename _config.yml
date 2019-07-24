@@ -1,0 +1,40 @@
+# Site settings
+title: Conferências.Dev
+description: Curadoria das maiores conferências para desenvolvedores no Brasil
+baseurl: "" 
+url: "https://conferencias.dev" 
+
+# User settings
+username: Conferências.Dev
+user_description: Curadoria das maiores conferências para desenvolvedores no Brasil
+email: conferencias.dev@gmail.com
+twitter_username: conferenciasdev
+github_username:  conferencias-dev
+gplus_username:  lorem_ipsum
+disqus_username: lorem_ipsum
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Tags
+    url: /tags
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
+
+future: true
