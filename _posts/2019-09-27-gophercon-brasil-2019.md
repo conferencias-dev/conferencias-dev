@@ -15,4 +15,4 @@ introduction: 'O maior evento na América Latina dedicado à linguagem de progra
 
 A GopherCon Brasil 2019 ocorrerá nos dias 27 a 28 de setembro (no Hotel Canasvieiras Internacional), na cidade de Florianópolis-SC.
 
-Mais informações em: [http://2019.gopherconbr.org](http://2019.gopherconbr.org)
+Mais informações em: [http://bit.ly/2M9QMAQ](http://bit.ly/2M9QMAQ)
