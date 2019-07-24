@@ -20,4 +20,4 @@ Bem vindo ao PHP Community Summit, onde todas as comunidades são bem vindas e c
 
 O evento vai acontecer nos dias 26 e 27 de setembro em São Paulo.
 
-Mais informações em: [https://www.sympla.com.br/php-community-summit-2019__495499](https://www.sympla.com.br/php-community-summit-2019__495499)
+Mais informações em: [http://bit.ly/32QHos6](http://bit.ly/32QHos6)
