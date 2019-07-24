@@ -1,16 +1,20 @@
 <!DOCTYPE html>
-<html lang="en" itemscope itemtype="http://schema.org/BlogPosting" {% if page.main-class %}class="post-{{ page.main-class }}"{% endif %}>
-    {% include head.html %}
-    <body>
-        {% include svg-icons.html %}
-        {% include header-post.html %}
-        <section class="post">
+<html lang="en" itemscope itemtype="http://schema.org/BlogPosting"
+    {% if page.main-class %}class="post-{{ page.main-class }}" {% endif %}>
+{% include head.html %}
 
-            <article role="article" id="post" class="post-content" itemprop="articleBody">
-                {{ content }}
-            </article>
+<body>
+    {% include svg-icons.html %}
+    {% include header-post.html %}
+    <section class="post">
 
-            {% include footer.html %}
-        </section>
-    </body>
+        <article role="article" id="post" class="post-content" itemprop="articleBody">
+            {{ content }}
+        </article>
+
+        {% include follow.html %}
+        {% include footer.html %}
+    </section>
+</body>
+
 </html>
