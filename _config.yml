@@ -1,12 +1,12 @@
 # Site settings
 title: Conferências.Dev
-description: Curadoria das maiores conferências para desenvolvedores no Brasil
+description: Agregador das maiores conferências de desenvolvimento do Brasil
 baseurl: "" 
 url: "https://conferencias.dev" 
 
 # User settings
 username: Conferências.Dev
-user_description: Curadoria das maiores conferências para desenvolvedores no Brasil
+user_description: Agregador das maiores conferências de desenvolvimento do Brasil
 email: conferencias.dev@gmail.com
 twitter_username: conferenciasdev
 github_username:  conferencias-dev
