@@ -5,12 +5,12 @@ layout: default
     itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
 
-        {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+        {% capture now %}{{'now' | date: '%Y-%m-%d'}}{% endcapture %}
 
         {% assign sorted_posts = site.posts | sort:"date" | reversed %}
         {% for post in sorted_posts %}
 
-        {% capture date %}{{post.date | date: '%s'}}{% endcapture %}
+        {% capture date %}{{post.date | date: '%Y-%m-%d'}}{% endcapture %}
         {% if date >= now %}
         <article class="box-item post-{{post.main-class}}" itemscope="itemscope"
             itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
@@ -20,7 +20,7 @@ layout: default
             <div class="box-body">
                 <meta itemprop="datePublished" content="{{post.date | date_to_xmlschema }}">
                 <time itemprop="datePublished" datetime="{{ post.date }}"
-                    class="date">{{ post.date | date_to_string }}</time>
+                    class="date">{{ now }} - {{ date }}</time>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                     <h2 class="post-title" itemprop="name">
                         {{ post.title }}
