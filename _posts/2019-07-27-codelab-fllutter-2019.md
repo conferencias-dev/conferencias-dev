@@ -38,7 +38,7 @@ Para uma melhor experiência, você pode levar o seu laptop. Mas caso não queri
 Não. Venha tranquilo que teremos muita informação bacana e útil pra te passar <3
 
 - Precisa ter algo instalado no meu laptop?
-Mais ou menos. Neste caso, o Flutter precisa de um ambiente já configurado para que ele funcione corretamente. Nós vamos ajudar no dia, mas caso você seja entusiasta e já queira tentar antes, aqui está um link com um [tutorial básico](https://luizmarcus.com/android/instalando-e-configurando-o-flutter/) 
+Mais ou menos. Neste caso, o Flutter precisa de um ambiente já configurado para que ele funcione corretamente. Nós vamos ajudar no dia, mas caso você seja entusiasta e já queira tentar antes, aqui está um link com um [tutorial básico](https://luizmarcus.com/android/instalando-e-configurando-o-flutter) 
 
 - Vai ter comida?
 Para quem quiser e puder ajudar com o coffee, estamos disponibilizando [aqui](https://docs.google.com/spreadsheets/d/1hPDnDuv_i33y33ba0xVcF5-JUVg0PMviP_4ETNNqZSs/edit?usp=sharing) uma lista para que vocês possam
@@ -47,4 +47,4 @@ se organizar com que exatamente levar.
 É isso pessoal!
 Nos vemos no dia 27/07 pessoal! Até lá!
 
- [Clique aqui e confira o Link oficial da conferência](https://www.meetup.com/pt-BR/GDG-ABC/events/262951676/)
+ [Clique aqui e confira o Link oficial da conferência](https://www.meetup.com/pt-BR/GDG-ABC/events/262951676)
