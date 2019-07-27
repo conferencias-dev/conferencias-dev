@@ -38,3 +38,6 @@ links:
 exclude: ['package.json', 'src', 'node_modules']
 
 future: true
+
+# timezone
+timezone: America/Sao_Paulo
