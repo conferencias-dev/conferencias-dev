@@ -27,7 +27,7 @@ tags:                                                       # Lista de tags asso
 - sp
 categories:                                                 # Deixar em branco.
 twitter_text: 'Aquela mega descrição da sua conferência!'   # Texto do tweet. Pode ser igual a descrição.
-introduction: 'Aquela mega descrição da sua conferência!'   # Texto que vai aparecer em baixo do título no post.
+introduction: 'Aquela mega descrição da sua conferência!'   # Texto que vai aparecer embaixo do título no post.
 ---
 
 Aqui você pode cadastrar todas as informações úteis que encontrar sobre a conf! <!-- Descrição da sua conferência. -->
