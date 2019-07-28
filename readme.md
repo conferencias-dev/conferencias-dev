@@ -17,9 +17,9 @@ Template:
 ```markdown
 ---
 layout: post                                                # Layout do post, deixar por padrão post.
-title: "Título da sua conferência 2019"                     # Título da conferência.
+title: 'Título da sua conferência 2019'                     # Título da conferência.
 date: 2019-01-01                                            # Data da conferência no formado yyyy-mm-dd sem aspas.
-description: "Aquela mega descrição da sua conferência!"    # Descrição da conferência.
+description: 'Aquela mega descrição da sua conferência!'    # Descrição da conferência.
 main-class: 'dev'                                           # Badge do post, deixar por padrão 'dev'.
 color: '#637a91'                                            # Cor principal do post, deixar por padrão '#637a91'.
 tags:                                                       # Lista de tags associadas a sua conferência. Ex: Linguagem (js) e estado (sp). Caso seja mais de uma linguagem use apenas geral.
