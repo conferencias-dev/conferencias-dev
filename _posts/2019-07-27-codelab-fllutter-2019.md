@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Codelab Flutter na UFABC"
+title: "Codelab Flutter 2019"
 date: 2019-07-27
-description: "Conferencia de Flutter na Universidade Federal do ABC"
+description: "Conferência de Flutter na Universidade Federal do ABC"
 main-class: dev
 color: '#637a91'
 tags:
@@ -10,9 +10,10 @@ tags:
 - sp
 categories:
 twitter_text: 'Codelab Flutter na UFABC'
-introduction: 'Vamos realizar este codelab mais uma vez na Universidade Federal do ABC (UFABC). Na unidade de Santo André, que fica no endereço: Av. dos Estados, 5001 · Santo André - A sala desta vez será a S-311-2.'
+introduction: 'Vamos realizar este codelab mais uma vez na Universidade Federal do ABC (UFABC)'
 ---
- Ola pessoal, tudo bem? Aqui estamos mais uma vez.
+
+Olá pessoal, tudo bem? Aqui estamos mais uma vez.
 
 Sim! Vamos fazer hora extra neste mês de Julho! rs
 
@@ -47,4 +48,5 @@ se organizar com que exatamente levar.
 É isso pessoal!
 Nos vemos no dia 27/07 pessoal! Até lá!
 
- [Clique aqui e confira o Link oficial da conferência](https://www.meetup.com/pt-BR/GDG-ABC/events/262951676)
+[Clique aqui e confira o Link oficial da conferência](https://www.meetup.com/pt-BR/GDG-ABC/events/262951676)
+
