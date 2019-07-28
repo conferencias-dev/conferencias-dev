@@ -10,7 +10,7 @@ tags:               # Lista de tags associadas a sua conferência. Ex: Linguagem
 - sp
 categories:         # Deixar em branco.
 twitter_text: ''    # Texto do tweet. Pode ser igual a descrição.
-introduction: ''    # Texto que vai aparecer em baixo do título no post.
+introduction: ''    # Texto que vai aparecer embaixo do título no post.
 ---
 
 <!-- Descrição da sua conferência. -->
