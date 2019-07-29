@@ -3,32 +3,34 @@
 # Conferências.Dev
 Agregador das maiores conferências de desenvolvimento do Brasil.
 
-O <a href="https://conferencias.dev" target="_blank">conferencias.dev</a> é uma iniciativa criada para a comunidade com o propósito de trazer em um único ambiente todas as conferências de desenvolvimento, tecnologia e afins que estarão rolando Brasil a fora!
+O [https://conferencias.dev](https://conferencias.dev) é uma iniciativa criada para a comunidade com o propósito de trazer em um único ambiente todas as conferências de desenvolvimento, tecnologia e afins que estarão rolando Brasil a fora!
 
 ## Vindo da comunidade para a comunidade 
 O projeto foi criado para ser totalmente colaborativo, feito da comunidade para a comunidade. Caso alguém queira adicionar alguma conferência ou evento basta fazer aquela PR seguindo o modelo abaixo e pronto! Além de deixar o seu github verdinho, vai facilitar a vida de todos nós **devs** que nunca sabemos qual e quando será a próxima conferência a ocorrer!
 
-## Modelo de PR para conferencias
+## Modelo de PR para conferências
 
-```
+Nome do arquivo: `yyyy-mm-dd-titulo-da-sua-conferencia-yyyy.md`
+
+Template:
+
+```markdown
 ---
-layout: post
-title: "Título da sua conferência"
-date: Data da conferência no formado yyy-mm-dd (sem aspas)
-description: "Aquela mega descrição da sua conferência!"
-main-class: badge do post, deixar por padrão 'dev'
-color: '#637a91'
-tags: (em lista, todas as tags associadas a sua conferência. Ex: cidade, estado, linguagem, etc)
+layout: post                                                # Layout do post, deixar por padrão post.
+title: 'Título da sua conferência 2019'                     # Título da conferência.
+date: 2019-01-01                                            # Data da conferência no formado yyyy-mm-dd sem aspas.
+description: 'Aquela mega descrição da sua conferência!'    # Descrição da conferência.
+main-class: 'dev'                                           # Badge do post, deixar por padrão 'dev'.
+color: '#637a91'                                            # Cor principal do post, deixar por padrão '#637a91'.
+tags:                                                       # Lista de tags associadas a sua conferência. Ex: Linguagem (js) e estado (sp). Caso seja mais de uma linguagem use apenas geral.
 - js
-- rs
-categories:
-twitter_text: 'Texto do twiit. Pode ser igual ao título.'
-introduction: 'Introdução da sua conferência.'
+- sp
+categories:                                                 # Deixar em branco.
+twitter_text: 'Aquela mega descrição da sua conferência!'   # Texto do tweet. Pode ser igual a descrição.
+introduction: 'Aquela mega descrição da sua conferência!'   # Texto que vai aparecer embaixo do título no post.
 ---
 
- Descrição da sua conferência! Aqui você pode cadastrar todas as informações úteis que encontrar sobre a conf!
+Aqui você pode cadastrar todas as informações úteis que encontrar sobre a conf! <!-- Descrição da sua conferência. -->
 
- 
-
- Link oficial da conferência: [http://bit.ly/2JMGXr3](http://bit.ly/2JMGXr3)
+Link oficial da conferência: [https://sua.conferencia.com.br](https://sua.conferencia.com.br) <!-- Link oficial da conferência. -->
  ```
