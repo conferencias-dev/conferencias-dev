@@ -34,3 +34,5 @@ Aqui você pode cadastrar todas as informações úteis que encontrar sobre a co
 
 Link oficial da conferência: [https://sua.conferencia.com.br](https://sua.conferencia.com.br) <!-- Link oficial da conferência. -->
  ```
+ 
+ O arquivo deve ser adicionado à pasta `_posts`
