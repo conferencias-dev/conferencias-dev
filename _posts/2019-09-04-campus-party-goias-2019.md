@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Campus Party Goiás"
+title: "Campus Party Goiás 2019"
 date: 2019-09-04
 description: "Conferência imersiva em tecnologia"
 main-class: dev
