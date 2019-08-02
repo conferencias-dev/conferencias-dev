@@ -16,7 +16,7 @@ introduction: 'Um evento que tem como objetivo discutir, ferramentas, práticas 
 # O que é o DevOps Tour
 
 Um evento que tem como objetivo discutir, ferramentas, práticas e cases relacionados a adoção de práticas DevOps.
-Mostrar como essa filosofia permitiu que as empresas conseguissem entregar software de modo mais eficiente, frequente,seguro e confiável e também como a adoção do DevOps vem ajudado na transformação digital e na jornada para a cloud.
+Mostrar como essa filosofia permitiu que as empresas conseguissem entregar software de modo mais eficiente, frequente, seguro e confiável e também como a adoção do DevOps vem ajudado na transformação digital e na jornada para a cloud.
 
 ## Objetivos do DevOps Tour
 
@@ -40,7 +40,7 @@ Especialistas na área de Segurança da Informação
 ## Onde vai ser realizado
 O evento será realizado na  UniRitter no campi FAPA.
 
-A UniRitter - integrante da rede global líder em ensino superior Laureate International Universities - é uma das mais tradicionais instituições de ensino superior de Porto Alegre. Com 47 anos de mercado, possui 37 cursos de graduação e mais de 30 especializações nos campi: Canoas, FAPA, Zona Sul e Iguatemi. A instituição de ensino tem como missão levar a educação de qualidade para um número cada vez maior de alunos e, assim, formar profissionais qualificados e éticos para atuar no mercado. Recentemente, a UniRitter recebeu a pontuação máxima (nota 5) do Ministério da Educação (MEC) em relação à avaliação de Recredenciamento Institucional.
+A UniRitter - integrante da rede global líder em ensino superior Laureate International Universities - é uma das mais tradicionais instituições de ensino superior de Porto Alegre. Com 47 anos de mercado, possui 37 cursos de graduação e mais de 30 especializações nos campos: Canoas, FAPA, Zona Sul e Iguatemi. A instituição de ensino tem como missão levar a educação de qualidade para um número cada vez maior de alunos e, assim, formar profissionais qualificados e éticos para atuar no mercado. Recentemente, a UniRitter recebeu a pontuação máxima (nota 5) do Ministério da Educação (MEC) em relação à avaliação de Recredenciamento Institucional.
 
 ### Desconto
 A KingHost esta oferencendo um desconto na inscrição da conferencia!
