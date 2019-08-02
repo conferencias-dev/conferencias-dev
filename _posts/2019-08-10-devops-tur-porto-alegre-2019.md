@@ -40,6 +40,11 @@ Especialistas na área de Segurança da Informação
 ## Onde vai ser realizado
 O evento será realizado na  UniRitter no campi FAPA.
 
-A UniRitter - integrante da rede global líder em ensino superior Laureate International Universities - é uma das mais tradicionais instituições de ensino superior de Porto Alegre. Com 47 anos de mercado, possui 37 cursos de graduação e mais de 30 especializações nos campi: Canoas, FAPA, Zona Sul e Iguatemi. A instituição de ensino tem como missão levar a educação de qualidade para um número cada vez maior de alunos e, assim, formar profissionais qualificados e éticos para atuar no mercado. Recentemente, a UniRitter recebeu a pontuação máxima (nota 5) do Ministério da Educação (MEC) em relação à avaliação de Recredenciamento Institucional. 
+A UniRitter - integrante da rede global líder em ensino superior Laureate International Universities - é uma das mais tradicionais instituições de ensino superior de Porto Alegre. Com 47 anos de mercado, possui 37 cursos de graduação e mais de 30 especializações nos campi: Canoas, FAPA, Zona Sul e Iguatemi. A instituição de ensino tem como missão levar a educação de qualidade para um número cada vez maior de alunos e, assim, formar profissionais qualificados e éticos para atuar no mercado. Recentemente, a UniRitter recebeu a pontuação máxima (nota 5) do Ministério da Educação (MEC) em relação à avaliação de Recredenciamento Institucional.
 
-Link oficial da conferência: [https://www.sympla.com.br/devops-tour-porto-alegre__541741](https://www.sympla.com.br/devops-tour-porto-alegre__541741)
+### Desconto
+A KingHost esta oferencendo um desconto na inscriço da conferencia!
+
+Use o código `king15` no momento da inscrição.
+
+Link oficial da conferência: [https://www.devopstour.com/portoalegre](https://www.devopstour.com/portoalegre)
