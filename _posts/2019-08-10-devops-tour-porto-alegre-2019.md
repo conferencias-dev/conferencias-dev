@@ -15,27 +15,27 @@ introduction: 'Um evento que tem como objetivo discutir, ferramentas, práticas 
 
 # O que é o DevOps Tour
 
-Um evento que tem como objetivo discutir, ferramentas, práticas e cases relacionados a adoção de práticas DevOps.
+Um evento que tem como objetivo discutir sobre as ferramentas, práticas e cases relacionados a DevOps.
 Mostrar como essa filosofia permitiu que as empresas conseguissem entregar software de modo mais eficiente, frequente, seguro e confiável e também como a adoção do DevOps vem ajudado na transformação digital e na jornada para a cloud.
 
 ## Objetivos do DevOps Tour
 
-Reunir interessados no assunto de DevOps
-Trazer profissionais de impacto internacional
-Atender a crescente demanda sobre DevOps
-Despertar o interesse em quem ainda não conhece
-Discutir DevOps, SRE, transformação digital e cloud por meio de palestras e cases
+- Reunir interessados no assunto de DevOps
+- Trazer profissionais de impacto internacional
+- Atender a crescente demanda sobre DevOps
+- Despertar o interesse em quem ainda não conhece
+- Discutir DevOps, SRE, transformação digital e cloud por meio de palestras e cases
 
 ## Público Alvo
 
-C-Level
-Gestores
-Empreendedores
-Desenvolvedores
-Operadores de Infraestrutura
-SysAdmins
-Estudantes
-Especialistas na área de Segurança da Informação
+- C-Level
+- Gestores
+- Empreendedores
+- Desenvolvedores
+- Operadores de Infraestrutura
+- SysAdmins
+- Estudantes
+- Especialistas na área de Segurança da Informação
 
 ## Onde vai ser realizado
 O evento será realizado na  UniRitter no campi FAPA.
