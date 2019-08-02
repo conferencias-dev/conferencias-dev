@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DevOps Tour Porto Alegre'
+title: 'DevOps Tour Porto Alegre 2019'
 date: 2019-08-10
 description: 'Um evento que tem como objetivo discutir, ferramentas, práticas e cases relacionados a adoção de práticas DevOps.'
 main-class: 'dev'
