@@ -2,13 +2,13 @@
 layout: post
 title: "Devopsdays Fortaleza 2019"
 date: 2019-09-28
-description: 'Conferencia sobre a cultura DevOps.'
+description: 'Conferência sobre a cultura DevOps.'
 color: '#637a91'
 tags:
 - devops
 - ce
 categories:
-twitter_text: 'Conferencia sobre a cultura DevOps. Edição de Fortaleza-CE.'
+twitter_text: 'Conferência sobre a cultura DevOps. Edição de Fortaleza-CE.'
 introduction: 'Devopsdays é uma série de conferências da comunidade mundial para qualquer pessoa interessada em melhoria de TI.'
 ---
 
