@@ -6,7 +6,7 @@ description: 'O maior evento na América Latina dedicado à linguagem de program
 main-class: 'dev'
 color: '#637a91'
 tags:
-- go
+- golang
 - sc
 categories:
 twitter_text: 'O maior evento na América Latina dedicado à linguagem de programação Go.'
