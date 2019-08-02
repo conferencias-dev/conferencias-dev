@@ -12,6 +12,8 @@ O projeto foi criado para ser totalmente colaborativo, feito da comunidade para 
 
 Nome do arquivo: `yyyy-mm-dd-titulo-da-sua-conferencia-yyyy.md`
 
+Data: Caso o evento ocorra em mais de uma data, insira apenas a data final.
+
 Template:
 
 ```markdown
@@ -34,3 +36,5 @@ Aqui você pode cadastrar todas as informações úteis que encontrar sobre a co
 
 Link oficial da conferência: [https://sua.conferencia.com.br](https://sua.conferencia.com.br) <!-- Link oficial da conferência. -->
  ```
+ 
+ O arquivo deve ser adicionado à pasta `_posts`
