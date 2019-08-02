@@ -12,6 +12,8 @@ O projeto foi criado para ser totalmente colaborativo, feito da comunidade para 
 
 Nome do arquivo: `yyyy-mm-dd-titulo-da-sua-conferencia-yyyy.md`
 
+Data: Caso o evento ocorra em mais de uma data, insira apenas a data final.
+
 Template:
 
 ```markdown
