@@ -4,7 +4,7 @@ title: "GopherCon Brasil 2019"
 date: 2019-09-27
 description: 'O maior evento na América Latina dedicado à linguagem de programação Go.'
 main-class: 'dev'
-color: '#637a91'
+color: '#6ec8b1'
 tags:
 - golang
 - sc

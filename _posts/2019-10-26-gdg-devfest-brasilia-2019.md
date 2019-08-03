@@ -4,7 +4,7 @@ title: 'GDG DevFest Brasília 2019'
 date: 2019-10-26
 description: 'O DevFest Brasília é a maior conferência sobre tecnologias Google de Brasília.'
 main-class: 'dev'
-color: '#637a91'
+color: '#6ec8b1'
 tags:
 - geral
 - df

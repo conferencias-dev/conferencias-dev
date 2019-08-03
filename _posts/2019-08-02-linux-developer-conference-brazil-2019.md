@@ -4,7 +4,7 @@ title: 'Linux Developer Conference Brazil 2019'
 date: 2019-08-02
 description: 'O Linux Developer Conference Brasil pretende levar a comunidade brasileira de desenvolvimento Linux ao nível internacional.'
 main-class: 'dev'
-color: '#637a91'
+color: '#6ec8b1'
 tags:
 - linux
 - sp

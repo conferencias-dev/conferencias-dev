@@ -4,7 +4,7 @@ title: 'DevOps Tour Porto Alegre 2019'
 date: 2019-08-10
 description: 'Um evento que tem como objetivo discutir, ferramentas, práticas e cases relacionados a adoção de práticas DevOps.'
 main-class: 'dev'
-color: '#637a91'
+color: '#6ec8b1'
 tags:
 - devops
 - rs

@@ -4,7 +4,7 @@ title: "PHP Conference Brasil 2019"
 date: 2019-12-05
 description: 'O principal evento de PHP da América Latina, com mais de 60 atividades durante seus 3 dias de realização.'
 main-class: 'dev'
-color: '#637a91'
+color: '#6ec8b1'
 tags:
 - php
 - rs
