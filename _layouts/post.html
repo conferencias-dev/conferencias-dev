@@ -12,12 +12,16 @@
             {{ content }}
         </article>
 
+
+        {% if page.comments != false %}
+        {% include comments.html %}
+        {% endif %}
         {% include follow.html %}
         {% include footer.html %}
     </section>
-{% if jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
 </body>
 
 </html>
