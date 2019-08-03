@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b3e088f0-93b6-4ddb-ab2f-f44ac0f84895/deploy-status)](https://app.netlify.com/sites/awesome-hopper-d47e34/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b3e088f0-93b6-4ddb-ab2f-f44ac0f84895/deploy-status)](https://app.netlify.com/sites/conferencias-dev/deploys)
 
 # Conferências.Dev
 Agregador das maiores conferências de desenvolvimento do Brasil.
