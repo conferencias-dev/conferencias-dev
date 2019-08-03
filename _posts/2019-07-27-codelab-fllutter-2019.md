@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Codelab Flutter 2019"
-date: 2019-07-27
+date_from: 2019-07-27
+date_to: 2019-07-27
 description: "Conferência de Flutter na Universidade Federal do ABC"
 main-class: dev
 color: '#6ec8b1'

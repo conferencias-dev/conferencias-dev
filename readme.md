@@ -12,15 +12,14 @@ O projeto foi criado para ser totalmente colaborativo, feito da comunidade para 
 
 Nome do arquivo: `yyyy-mm-dd-titulo-da-sua-conferencia-yyyy.md`
 
-Data: Caso o evento ocorra em mais de uma data, insira apenas a data final.
-
 Template:
 
 ```markdown
 ---
 layout: post                                                # Layout do post, deixar por padrão post.
 title: 'Título da sua conferência 2019'                     # Título da conferência.
-date: 2019-01-01                                            # Data da conferência no formado yyyy-mm-dd sem aspas.
+date_from: 2019-01-01                                       # Data de início da conferência no formado yyyy-mm-dd sem aspas.
+date_to: 2019-01-01                                         # Data de encerramento da conferência no formado yyyy-mm-dd sem aspas.
 description: 'Aquela mega descrição da sua conferência!'    # Descrição da conferência.
 main-class: 'dev'                                           # Badge do post, deixar por padrão 'dev'.
 color: '#6ec8b1'                                            # Cor principal do post, deixar por padrão '#6ec8b1'.
