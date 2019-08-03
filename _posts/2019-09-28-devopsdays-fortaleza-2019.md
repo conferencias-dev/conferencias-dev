@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "DevOpsDays Fortaleza 2019"
-date: 2019-09-28
+date_from: 2019-09-28
+date_to: 2019-09-28
 description: 'Conferência sobre a cultura DevOps.'
 main-class: dev
 color: '#6ec8b1'

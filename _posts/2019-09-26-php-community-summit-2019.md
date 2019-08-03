@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "PHP Community Summit 2019"
-date: 2019-09-26
+date_from: 2019-09-26
+date_to: 2019-09-27
 description: 'Conheça o evento onde todas as comunidades são bem-vindas para juntas atualizarem seus conhecimentos sobre a linguagem líder no desenvolvimento para a web.'
 main-class: 'dev'
 color: '#6ec8b1'

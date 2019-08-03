@@ -6,9 +6,15 @@
 {% include menu-search.html %}
 
 <header class="header-post" role="banner">
-     <div class="content">
+    <div class="content">
         {% if page.date %}
-            <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}" class="date">{{ page.date | date_to_string }}</time>
+        <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}" class="date">
+            {% if page.date_from == page.date_to %}
+            {{ page.date_from | date_to_string }}
+            {% else %}
+            {{page.date_from | date: '%d'}} - {{page.date_to | date: '%d %b %Y'}}
+            {% endif %}
+        </time>
         {% endif %}
         <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
         <p itemprop="description" class="subtitle">{{ page.description }}</p>

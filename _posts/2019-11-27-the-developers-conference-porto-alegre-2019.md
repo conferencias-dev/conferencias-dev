@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "The Developer’s Conference Porto Alegre 2019"
-date: 2019-11-27
+date_from: 2019-11-27
+date_to: 2019-11-30
 description: 'TDC é o maior evento relacionado a desenvolvimento de software no Brasil.'
 main-class: 'dev'
 color: '#6ec8b1'

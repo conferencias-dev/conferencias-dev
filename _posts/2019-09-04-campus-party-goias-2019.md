@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Campus Party Goiás 2019"
-date: 2019-09-04
+date_from: 2019-09-04
+date_to: 2019-09-08
 description: "Conferência imersiva em tecnologia"
 main-class: dev
 color: '#6ec8b1'
