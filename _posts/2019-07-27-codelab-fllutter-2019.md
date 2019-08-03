@@ -4,7 +4,7 @@ title: "Codelab Flutter 2019"
 date: 2019-07-27
 description: "Conferência de Flutter na Universidade Federal do ABC"
 main-class: dev
-color: '#637a91'
+color: '#6ec8b1'
 tags:
 - flutter
 - sp

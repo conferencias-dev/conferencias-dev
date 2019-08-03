@@ -4,7 +4,7 @@ title: "Campus Party Goiás 2019"
 date: 2019-09-04
 description: "Conferência imersiva em tecnologia"
 main-class: dev
-color: '#637a91'
+color: '#6ec8b1'
 tags:
 - geral
 - go
