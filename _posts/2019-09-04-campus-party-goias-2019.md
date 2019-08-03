@@ -6,8 +6,7 @@ description: "Conferência imersiva em tecnologia"
 main-class: dev
 color: '#637a91'
 tags:
-- technology
-- culture
+- geral
 - go
 categories:
 twitter_text: 'Conferência imersiva em tecnologia'
