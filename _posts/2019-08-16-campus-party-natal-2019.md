@@ -3,15 +3,15 @@ layout: post
 title: "Campus Party Natal 2019"
 date_from: 2019-08-16
 date_to: 2019-08-18
-description: "Conferência imersiva em tecnologia"
+description: "Conferência imersiva em tecnologia."
 main-class: dev
 color: '#6ec8b1'
 tags:
 - geral
 - rn
 categories:
-twitter_text: 'Conferência imersiva em tecnologia'
-introduction: 'A Campus Party retorna à cidade de Natal (RN) em mais um evento de imersão em cultura, tecnologia e inovação'
+twitter_text: 'Conferência imersiva em tecnologia.'
+introduction: 'A Campus Party retorna à cidade de Natal (RN) em mais um evento de imersão em cultura, tecnologia e inovação.'
 ---
 
 A Campus Party é uma jornada totalmente multidisciplinar, proporcionando desafios e atividades diariamente. É um evento que abraça não somente pessoas de TI.
