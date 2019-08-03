@@ -23,7 +23,7 @@ title: 'Título da sua conferência 2019'                     # Título da confe
 date: 2019-01-01                                            # Data da conferência no formado yyyy-mm-dd sem aspas.
 description: 'Aquela mega descrição da sua conferência!'    # Descrição da conferência.
 main-class: 'dev'                                           # Badge do post, deixar por padrão 'dev'.
-color: '#637a91'                                            # Cor principal do post, deixar por padrão '#637a91'.
+color: '#6EC8B1'                                            # Cor principal do post, deixar por padrão '#6EC8B1'.
 tags:                                                       # Lista de tags associadas a sua conferência. Ex: Linguagem (js) e estado (sp). Caso seja mais de uma linguagem use apenas geral.
 - js
 - sp

@@ -4,7 +4,7 @@ title: "PHP Community Summit 2019"
 date: 2019-09-26
 description: 'Conheça o evento onde todas as comunidades são bem-vindas para juntas atualizarem seus conhecimentos sobre a linguagem líder no desenvolvimento para a web.'
 main-class: 'dev'
-color: '#637a91'
+color: '#6EC8B1'
 tags:
 - php
 - sp

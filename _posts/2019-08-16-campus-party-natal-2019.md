@@ -4,7 +4,7 @@ title: "Campus Party Natal 2019"
 date: 2019-08-16
 description: "Conferência imersiva em tecnologia"
 main-class: dev
-color: '#637a91'
+color: '#6EC8B1'
 tags:
 - geral
 - rn
