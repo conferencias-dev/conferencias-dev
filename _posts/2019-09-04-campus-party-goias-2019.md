@@ -3,15 +3,15 @@ layout: post
 title: "Campus Party Goiás 2019"
 date_from: 2019-09-04
 date_to: 2019-09-08
-description: "Conferência imersiva em tecnologia"
+description: "Conferência imersiva em tecnologia."
 main-class: dev
 color: '#6ec8b1'
 tags:
 - geral
 - go
 categories:
-twitter_text: 'Conferência imersiva em tecnologia'
-introduction: 'A Campus Party vem para uma primeira edição em Goiânia (GO) em mais um evento de imersão em cultura, tecnologia e inovação'
+twitter_text: 'Conferência imersiva em tecnologia.'
+introduction: 'A Campus Party vem para uma primeira edição em Goiânia (GO) em mais um evento de imersão em cultura, tecnologia e inovação.'
 ---
 
 A Campus Party é uma jornada totalmente multidisciplinar, proporcionando desafios e atividades diariamente. É um evento que abraça não somente pessoas de TI.
