@@ -14,8 +14,8 @@ tags:
 - gratuito
 - linux
 categories:
-twitter_text: description: 'O maior evento gratuito de software livre e aberto do Brasil.'
-introduction: description: 'O maior evento gratuito de software livre e aberto do Brasil.'
+twitter_text: 'O maior evento gratuito de software livre e aberto do Brasil.'
+introduction: 'O maior evento gratuito de software livre e aberto do Brasil.'
 ---
 
 O Fórum de Tecnologia em Software Livre e Aberto - FTSL, é um evento anual, realizado em Curitiba/PR, sendo considerado o maior evento gratuito de Software Livre e Aberto do país, e tem como propósito a disseminação de novas tecnologias baseadas em Software Livre e Aberto, bem como, a troca de experiências com as comunidades, universidades e empresas públicas e privadas, por meio de palestras e minicursos.
