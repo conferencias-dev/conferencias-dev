@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "PHP Community Summit 2019"
+title: 'PHP Community Summit 2019'
 date_from: 2019-09-26
 date_to: 2019-09-27
 description: 'Conheça o evento onde todas as comunidades são bem-vindas para juntas atualizarem seus conhecimentos sobre a linguagem líder no desenvolvimento para a web.'
+link: 'http://bit.ly/32QHos6'
 tags:
 - php
 - sp
@@ -14,5 +15,3 @@ Conheça o evento onde todas as comunidades são bem-vindas para juntas atualiza
 Bem vindo ao PHP Community Summit, onde todas as comunidades são bem vindas e convidadas a fazer o PHP ainda melhor.
 
 O evento vai acontecer nos dias 26 e 27 de setembro em São Paulo.
-
-Mais informações em: [http://bit.ly/32QHos6](http://bit.ly/32QHos6)
