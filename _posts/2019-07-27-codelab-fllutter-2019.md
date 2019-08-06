@@ -7,7 +7,6 @@ description: "Conferência de Flutter na Universidade Federal do ABC"
 tags:
 - flutter
 - sp
-introduction: 'Vamos realizar este codelab mais uma vez na Universidade Federal do ABC (UFABC)'
 ---
 
 Olá pessoal, tudo bem? Aqui estamos mais uma vez.

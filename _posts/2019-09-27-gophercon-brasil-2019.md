@@ -7,7 +7,6 @@ description: 'O maior evento na América Latina dedicado à linguagem de program
 tags:
 - golang
 - sc
-introduction: 'O maior evento na América Latina dedicado à linguagem de programação Go.'
 ---
 
 A GopherCon Brasil 2019 ocorrerá nos dias 27 a 28 de setembro (no Hotel Canasvieiras Internacional), na cidade de Florianópolis-SC.

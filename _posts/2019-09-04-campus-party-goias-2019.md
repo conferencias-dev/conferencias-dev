@@ -7,7 +7,6 @@ description: "Conferência imersiva em tecnologia."
 tags:
 - geral
 - go
-introduction: 'A Campus Party vem para uma primeira edição em Goiânia (GO) em mais um evento de imersão em cultura, tecnologia e inovação.'
 ---
 
 A Campus Party é uma jornada totalmente multidisciplinar, proporcionando desafios e atividades diariamente. É um evento que abraça não somente pessoas de TI.

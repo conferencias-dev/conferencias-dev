@@ -7,7 +7,6 @@ description: 'O DevFest Brasília é a maior conferência sobre tecnologias Goog
 tags:
 - geral
 - df
-introduction: 'O DevFest Brasília é a maior conferência sobre tecnologias Google de Brasília.'
 ---
 
 O DevFest Brasília é a maior conferência sobre tecnologias Google de Brasília. Organizado pela comunidade GDG (Google Developers Group) tem como foco as necessidades da comunidade local, temos como objetivo proporcionar a troca de conhecimento, networking e o fortalecimento da comunidade de desenvolvedores: Android, iOS, Frontend (Javascript, Angular, Polymer, PWA), Backend (Storage, Databases, Arquitetura, Alta disponibilidade, Escalabilidade), Google APIs, Firebase, Kotlin, Cloud, Realidade Virtual, Machine learning, Big Data, Algoritmos, Internet das coisas, Testes, DevOps, Design, UI/UX, Startups, Mulheres em TI, Design Sprint, Gestão… Haja assunto!

@@ -26,7 +26,6 @@ description: 'Aquela mega descrição da sua conferência!'    # Descrição da 
 tags:                                                       # Lista de tags associadas a sua conferência. Ex: Linguagem (js) e estado (sp). Caso seja mais de uma linguagem use apenas geral.
 - js
 - sp
-introduction: 'Aquela mega descrição da sua conferência!'   # Texto que vai aparecer embaixo do título no post.
 ---
 
 Aqui você pode cadastrar todas as informações úteis que encontrar sobre a conf! <!-- Descrição da sua conferência. -->

@@ -7,7 +7,6 @@ description: 'O principal evento de PHP da América Latina, com mais de 60 ativi
 tags:
 - php
 - rs
-introduction: 'O principal evento de PHP da América Latina, com mais de 60 atividades durante seus 3 dias de realização.'
 ---
 
 Sem dúvida, o principal evento de PHP da América Latina, tradicionalmente, com mais de 60 atividades durante seus 3 dias de realização, entre cursos Mão na Massa (de 8 horas), Mini Cursos (4 horas), Palestras Técnicas, Conceituais, Painéis de Debate e Muita,Muita Troca de Experiência e Networking.

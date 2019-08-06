@@ -7,7 +7,6 @@ description: 'Um evento que tem como objetivo discutir, ferramentas, práticas e
 tags:
 - devops
 - rs
-introduction: 'Um evento que tem como objetivo discutir, ferramentas, práticas e cases relacionados a adoção de práticas DevOps.'
 ---
 
 # O que é o DevOps Tour

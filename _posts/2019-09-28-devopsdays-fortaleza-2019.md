@@ -7,7 +7,6 @@ description: 'Conferência sobre a cultura DevOps.'
 tags:
 - devops
 - ce
-introduction: 'DevOpsDays é uma série de conferências da comunidade mundial para qualquer pessoa interessada em melhoria de TI.'
 ---
 
 O DevOpsDays é uma série de conferências da comunidade mundial para qualquer pessoa interessada em melhoria de TI. Um evento a cultura do DevOps é difundida.

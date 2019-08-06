@@ -7,7 +7,6 @@ description: 'TDC é o maior evento relacionado a desenvolvimento de software no
 tags:
 - geral
 - rs
-introduction: 'TDC é o maior evento relacionado a desenvolvimento de software no Brasil.'
 ---
 
 TDC é o maior evento relacionado a desenvolvimento de software no Brasil conectando organizadores de meetups e eventos, palestrantes, empresas e patrocinadores em uma plataforma única, empoderando o ecossistema local de cada região onde é realizado.
