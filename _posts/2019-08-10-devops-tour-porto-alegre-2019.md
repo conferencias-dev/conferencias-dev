@@ -4,6 +4,7 @@ title: 'DevOps Tour Porto Alegre 2019'
 date_from: 2019-08-10
 date_to: 2019-08-10
 description: 'Um evento que tem como objetivo discutir, ferramentas, práticas e cases relacionados a adoção de práticas DevOps.'
+link: 'https://www.devopstour.com/portoalegre'
 tags:
 - devops
 - rs
@@ -42,5 +43,3 @@ A UniRitter - integrante da rede global líder em ensino superior Laureate Inter
 A KingHost esta oferencendo um desconto na inscrição da conferência!
 
 Use o código `king15` no momento da inscrição.
-
-Mais informações em: [https://www.devopstour.com/portoalegre](https://www.devopstour.com/portoalegre)

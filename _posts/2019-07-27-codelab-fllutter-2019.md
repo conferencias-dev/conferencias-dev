@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Codelab Flutter 2019"
+title: 'Codelab Flutter 2019'
 date_from: 2019-07-27
 date_to: 2019-07-27
-description: "Conferência de Flutter na Universidade Federal do ABC"
+description: 'Conferência de Flutter na Universidade Federal do ABC'
+link: 'https://www.meetup.com/pt-BR/GDG-ABC/events/262951676'
 tags:
 - flutter
 - sp
@@ -43,5 +44,3 @@ se organizar com que exatamente levar.
 
 É isso pessoal!
 Nos vemos no dia 27/07 pessoal! Até lá!
-
-Mais informações em: [https://www.meetup.com/pt-BR/GDG-ABC/events/262951676](https://www.meetup.com/pt-BR/GDG-ABC/events/262951676)
