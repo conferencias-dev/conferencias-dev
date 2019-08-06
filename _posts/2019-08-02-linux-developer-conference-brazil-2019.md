@@ -7,7 +7,6 @@ description: 'O Linux Developer Conference Brasil pretende levar a comunidade br
 tags:
 - linux
 - sp
-introduction: 'O Linux Developer Conference Brasil pretende levar a comunidade brasileira de desenvolvimento Linux ao nível internacional.'
 ---
 
 O Linux Developer Conference Brasil pretende levar a comunidade brasileira de desenvolvimento Linux ao nível internacional.

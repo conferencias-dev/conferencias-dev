@@ -7,7 +7,6 @@ description: 'Conheça o evento onde todas as comunidades são bem-vindas para j
 tags:
 - php
 - sp
-introduction: 'Conheça o evento onde todas as comunidades são bem-vindas para juntas atualizarem seus conhecimentos sobre a linguagem líder no desenvolvimento para a web.'
 ---
 
 Conheça o evento onde todas as comunidades são bem-vindas para juntas atualizarem seus conhecimentos sobre a linguagem líder no desenvolvimento para a web. Wikipedia, WordPress, Facebook, Symfony, Laravel, Zend Framework, Composer, Doctrine e Phing são só alguns exemplos de como essa linguagem está presente em nosso dia a dia. Venha para o PHP Community Summit e mergulhe em tudo isso!

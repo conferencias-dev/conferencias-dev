@@ -7,7 +7,6 @@ description: "Conferência imersiva em tecnologia."
 tags:
 - geral
 - rn
-introduction: 'A Campus Party retorna à cidade de Natal (RN) em mais um evento de imersão em cultura, tecnologia e inovação.'
 ---
 
 A Campus Party é uma jornada totalmente multidisciplinar, proporcionando desafios e atividades diariamente. É um evento que abraça não somente pessoas de TI.
