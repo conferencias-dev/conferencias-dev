@@ -4,13 +4,9 @@ title: "Codelab Flutter 2019"
 date_from: 2019-07-27
 date_to: 2019-07-27
 description: "Conferência de Flutter na Universidade Federal do ABC"
-main-class: dev
-color: '#6ec8b1'
 tags:
 - flutter
 - sp
-categories:
-twitter_text: 'Codelab Flutter na UFABC'
 introduction: 'Vamos realizar este codelab mais uma vez na Universidade Federal do ABC (UFABC)'
 ---
 
@@ -49,5 +45,4 @@ se organizar com que exatamente levar.
 É isso pessoal!
 Nos vemos no dia 27/07 pessoal! Até lá!
 
-[Clique aqui e confira o Link oficial da conferência](https://www.meetup.com/pt-BR/GDG-ABC/events/262951676)
-
+Mais informações em: [https://www.meetup.com/pt-BR/GDG-ABC/events/262951676](https://www.meetup.com/pt-BR/GDG-ABC/events/262951676)

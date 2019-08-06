@@ -4,14 +4,10 @@ title: 'DevOps Tour Porto Alegre 2019'
 date_from: 2019-08-10
 date_to: 2019-08-10
 description: 'Um evento que tem como objetivo discutir, ferramentas, práticas e cases relacionados a adoção de práticas DevOps.'
-main-class: 'dev'
-color: '#6ec8b1'
 tags:
 - devops
 - rs
-categories:
-twitter_text: 'Um evento que tem como objetivo discutir, ferramentas, práticas e cases relacionados a adoção de práticas DevOps.'   # Texto do tweet. Pode ser igual a descrição.
-introduction: 'Um evento que tem como objetivo discutir, ferramentas, práticas e cases relacionados a adoção de práticas DevOps. '   # Texto que vai aparecer embaixo do título no post.
+introduction: 'Um evento que tem como objetivo discutir, ferramentas, práticas e cases relacionados a adoção de práticas DevOps.'
 ---
 
 # O que é o DevOps Tour
@@ -48,4 +44,4 @@ A KingHost esta oferencendo um desconto na inscrição da conferência!
 
 Use o código `king15` no momento da inscrição.
 
-Link oficial da conferência: [https://www.devopstour.com/portoalegre](https://www.devopstour.com/portoalegre)
+Mais informações em: [https://www.devopstour.com/portoalegre](https://www.devopstour.com/portoalegre)

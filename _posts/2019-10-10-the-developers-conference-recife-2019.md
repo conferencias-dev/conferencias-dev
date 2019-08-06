@@ -4,13 +4,9 @@ title: "The Developer’s Conference Recife 2019"
 date_from: 2019-10-10
 date_to: 2019-10-12
 description: 'TDC é o maior evento relacionado a desenvolvimento de software no Brasil.'
-main-class: 'dev'
-color: '#6ec8b1'
 tags:
 - geral
 - pe
-categories:
-twitter_text: 'TDC é o maior evento relacionado a desenvolvimento de software no Brasil.'
 introduction: 'TDC é o maior evento relacionado a desenvolvimento de software no Brasil.'
 ---
 

@@ -6,7 +6,9 @@ Agregador das maiores conferências de desenvolvimento do Brasil.
 O [https://conferencias.dev](https://conferencias.dev) é uma iniciativa criada para a comunidade com o propósito de trazer em um único ambiente todas as conferências de desenvolvimento, tecnologia e afins que estarão rolando Brasil a fora!
 
 ## Vindo da comunidade para a comunidade 
-O projeto foi criado para ser totalmente colaborativo, feito da comunidade para a comunidade. Caso alguém queira adicionar alguma conferência ou evento basta fazer aquela PR seguindo o modelo abaixo e pronto! Além de deixar o seu github verdinho, vai facilitar a vida de todos nós **devs** que nunca sabemos qual e quando será a próxima conferência a ocorrer!
+O projeto foi criado para ser totalmente colaborativo, feito da comunidade para a comunidade. Caso alguém queira adicionar alguma conferência ou evento basta fazer aquela PR seguindo o modelo abaixo e pronto!
+
+Além de deixar o seu GitHub verdinho, vai facilitar a vida de todos nós **devs** que nunca sabemos qual e quando será a próxima conferência a ocorrer!
 
 ## Modelo de PR para conferências
 
@@ -21,19 +23,15 @@ title: 'Título da sua conferência 2019'                     # Título da confe
 date_from: 2019-01-01                                       # Data de início da conferência no formado yyyy-mm-dd sem aspas.
 date_to: 2019-01-01                                         # Data de encerramento da conferência no formado yyyy-mm-dd sem aspas.
 description: 'Aquela mega descrição da sua conferência!'    # Descrição da conferência.
-main-class: 'dev'                                           # Badge do post, deixar por padrão 'dev'.
-color: '#6ec8b1'                                            # Cor principal do post, deixar por padrão '#6ec8b1'.
 tags:                                                       # Lista de tags associadas a sua conferência. Ex: Linguagem (js) e estado (sp). Caso seja mais de uma linguagem use apenas geral.
 - js
 - sp
-categories:                                                 # Deixar em branco.
-twitter_text: 'Aquela mega descrição da sua conferência!'   # Texto do tweet. Pode ser igual a descrição.
 introduction: 'Aquela mega descrição da sua conferência!'   # Texto que vai aparecer embaixo do título no post.
 ---
 
 Aqui você pode cadastrar todas as informações úteis que encontrar sobre a conf! <!-- Descrição da sua conferência. -->
 
-Link oficial da conferência: [https://sua.conferencia.com.br](https://sua.conferencia.com.br) <!-- Link oficial da conferência. -->
+Mais informações em: [https://sua.conferencia.com.br](https://sua.conferencia.com.br) <!-- Link oficial da conferência. -->
  ```
  
  O arquivo deve ser adicionado à pasta `_posts`

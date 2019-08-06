@@ -4,13 +4,9 @@ title: "Campus Party Goiás 2019"
 date_from: 2019-09-04
 date_to: 2019-09-08
 description: "Conferência imersiva em tecnologia."
-main-class: dev
-color: '#6ec8b1'
 tags:
 - geral
 - go
-categories:
-twitter_text: 'Conferência imersiva em tecnologia.'
 introduction: 'A Campus Party vem para uma primeira edição em Goiânia (GO) em mais um evento de imersão em cultura, tecnologia e inovação.'
 ---
 
@@ -20,6 +16,4 @@ O evento conta com palestras, hackatons, brindes, comunidades, workshops, simula
 
 E, este ano será a primeira edição da Campus Party em Goiânia, que conta com outras edições regionais em outros estados. O evento ocorre de 04 a 08 de setembro, no Shopping Passeio das Águas.
 
-
 Mais informações em: [https://brasil.campus-party.org/campus-party-goias/](https://brasil.campus-party.org/campus-party-goias/)
-
