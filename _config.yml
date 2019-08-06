@@ -1,8 +1,8 @@
 # Site settings
 title: Conferências.Dev
 description: Agregador das maiores conferências de desenvolvimento do Brasil
-baseurl: "" 
-url: "https://conferencias.dev" 
+baseurl:  
+url: https://conferencias.dev 
 
 # User settings
 username: Conferências.Dev
@@ -10,8 +10,9 @@ user_description: Agregador das maiores conferências de desenvolvimento do Bras
 email: conferencias.dev@gmail.com
 twitter_username: conferenciasdev
 github_username:  conferencias-dev
-gplus_username:  lorem_ipsum
 disqus_username: conferencias-dev
+facebook_username: conferencias.dev
+google_analytics: UA-144523891-1
 
 # Build settings
 markdown: kramdown
@@ -33,6 +34,8 @@ links:
     url: /
   - title: Tags
     url: /tags
+  - title: Sobre
+    url: /sobre
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
