@@ -32,5 +32,9 @@
     "jeet": "=6.1.2",
     "kouto-swiss": "^0.11.14",
     "rupture": "^0.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/conferencias-dev/conferencias-dev.git"
   }
 }
