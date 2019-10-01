@@ -7,7 +7,7 @@ description: 'Trata-se de um evento onde iremos reunir estudantes (8º e 9º Ano
 link: 'https://www.sympla.com.br/1-hackathon-da-educacao-de-santa-barbara__661568'                      # Link oficial da conferência.
 tags:                                                       # Lista de tags associadas a sua conferência. Ex: Linguagem (js) e estado (sp). Caso seja mais de uma linguagem use apenas geral.
 - hackathon
-- sp
+- mg
 ---
 Trata-se de um evento onde iremos reunir estudantes (8º e 9º Ano), profissionais da educação e públicos diversos que tenham interesse em contribuir (pais, empresários, estudantes de outras escolas, ...) para uma maratona de desenvolvimento, prototipagem e colaboração em prol da solução de desafios e desenvolvimento de ideias inovadoras com foco na educação. O Hackathon promove oportunidades bilaterais, tanto para os participantes, como também para os organizadores, valorizando assim seus talentos.
 
