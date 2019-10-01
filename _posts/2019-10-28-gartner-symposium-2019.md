@@ -8,6 +8,7 @@ link: 'https://www.gartner.com/pt-br/conferences/la/symposium-brazil/agenda/feat
 tags:                                                       # Lista de tags associadas a sua conferência. Ex: Linguagem (js) e estado (sp). Caso seja mais de uma linguagem use apenas geral.
 - ia
 - iot
+- blockchain
 - sp
 ---
 A velocidade da mudança tecnológica está acelerando. Os executivos de TI devem identificar e capitalizar as tendências que impulsionam mudanças significativas, enquanto fazem mudanças suficientes em seus modelos operacionais e de gestão de riscos.
