@@ -3,10 +3,10 @@ layout: post
 title: 'Oficina de Privacidade'
 date_from: 2019-10-09
 date_to: 2019-10-10
-description: 'Como se proteger na internet?'
+description: 'Como se proteger na internet'
 link: 'https://bit.ly/2ktxfAb'
 tags:
-- privacidade
+- segurança
 - sp
 ---
 
