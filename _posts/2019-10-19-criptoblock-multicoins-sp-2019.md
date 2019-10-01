@@ -10,6 +10,7 @@ tags:                                                       # Lista de tags asso
 - sp
 ---
 **VISÃO GLOBAL**
+
 A CriptoBlock desenvolveu o terceiro encontro multicoins destacando projetos desenvolvidos para adoção e usabilidade de criptomoedas. Nosso público alvo são empreendedores, investidores, entusiastas, influenciadores, iniciantes no mercado de criptoativos e empresas desenvolvedoras de novas tecnologias baseadas em Blockchain.
 
 Neste terceiro encontro pretendemos atingir os seguintes estágios:
@@ -23,6 +24,7 @@ DATA DO EVENTO:
 19/10/2019
 
 **LOCAL DO EVENTO:**
+
 Investe SP
 Avenida Escola Politécnica, 82
 São Paulo – SP – Brasil
@@ -30,18 +32,23 @@ Cep: 05350-000
 Horário: 09hs ás 19hs
 
 **ESTACIONAMENTO:**
+
 Gratuito para todos os visitantes inscritos (Limitado a 260 vagas)
 
 **ACESSIBILIDADE:**
+
 Local possui acessibilidade para cadeirantes em todos os ambientes do evento.
 
 **INTÉRPRETE DE LIBRAS**
+
 Presente em todas as palestras, evento totalmente inclusivo.
 
 **KIT**
+
 Todos os visitantes inscritos recebem sacola do evento
 
 **CASHBACK**
+
 Todos os visitantes inscritos recebem 50% do valor pago pelo ingresso em CriptoBlock Coin para utilizar durante o evento; será necessário baixar, instalar e configurar uma das carteiras a seguir:
 
 – HUOBI: https://www.huobi.com/
