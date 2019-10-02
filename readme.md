@@ -10,6 +10,8 @@ O projeto foi criado para ser totalmente colaborativo, feito da comunidade para 
 
 Além de deixar o seu GitHub verdinho, vai facilitar a vida de todos nós **devs** que nunca sabemos qual e quando será a próxima conferência a ocorrer!
 
+**OBS:** Em geral não consideramos meetups mensais (a não ser algum meetup específico e não recorrente) como uma conferência ou evento elegível para ser listado no **conferencias.dev**. Acreditamos que para meetup já existem outras soluções maiores e já validadas como o meetup.com
+
 ## Modelo de PR para conferências
 
 Nome do arquivo: `yyyy-mm-dd-titulo-da-sua-conferencia-yyyy.md`
