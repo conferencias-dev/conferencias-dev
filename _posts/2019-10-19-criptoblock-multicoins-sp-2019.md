@@ -4,7 +4,7 @@ title: '3º CriptoBlock Multicoins São Paulo'                     # Título da 
 date_from: 2019-10-19                                       # Data de início da conferência no formado yyyy-mm-dd sem aspas.
 date_to: 2019-10-19                                         # Data de encerramento da conferência no formado yyyy-mm-dd sem aspas.
 description: 'A CriptoBlock desenvolveu o terceiro encontro multicoins destacando projetos desenvolvidos para adoção e usabilidade de criptomoedas.'    # Descrição da conferência.
-link: 'http://eventostech.com.br/index.php/event/3o-criptoblock-multicoins-sao-paulo'                      # Link oficial da conferência.
+link: 'https://www.sympla.com.br/3-criptoblock-multicoins-sao-paulo__600215'                      # Link oficial da conferência.
 tags:                                                       # Lista de tags associadas a sua conferência. Ex: Linguagem (js) e estado (sp). Caso seja mais de uma linguagem use apenas geral.
 - blockchain
 - sp
