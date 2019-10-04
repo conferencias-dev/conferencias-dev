@@ -3,8 +3,8 @@ layout: post                                                # Layout do post, de
 title: 'Master Seminars Blockmaster'                     # Título da conferência.
 date_from: 2019-10-15                                       # Data de início da conferência no formado yyyy-mm-dd sem aspas.
 date_to: 2019-10-15                                         # Data de encerramento da conferência no formado yyyy-mm-dd sem aspas.
-description: 'Se você quer conhecer melhor o mundo dos criptoativos e da tecnologia blockchain que já está impactando diversos setores.'    # Descrição da conferência.
-link: 'http://bit.ly/2kjU0Xb'                      # Link oficial da conferência.
+description: 'Conheça melhor o mundo dos criptoativos e da tecnologia blockchain que já está impactando diversos setores.'    # Descrição da conferência.
+link: 'https://www.sympla.com.br/master-seminars-blockmaster--curitiba__646713?d=BRAZILIEX30'                      # Link oficial da conferência.
 tags:                                                       # Lista de tags associadas a sua conferência. Ex: Linguagem (js) e estado (sp). Caso seja mais de uma linguagem use apenas geral.
 - blockchain
 - pr
