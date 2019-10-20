@@ -4,7 +4,7 @@ title: 'Devopsdays Belém 2019!'
 date_from: 2019-12-14
 date_to: 2019-12-14
 description: 'Segunda edição do DevOps Days Belém'
-link: 'https://devopsdays.org/events/2019-recife/welcome/'
+link: 'https://devopsdays.org/events/2019-belem/welcome/'
 tags:
 - devops
 - pa
