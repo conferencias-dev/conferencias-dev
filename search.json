@@ -1,13 +1,24 @@
 ---
 ---
 [
-  {% for post in site.posts %}
-    {
-      "title"    : "{{ post.title | escape }}",
-      "tags"     : "{{ post.tags | array_to_sentence_string }}",
-      "categories"     : "{{ post.main-class }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date | date_to_string}}"
-    } {% unless forloop.last %},{% endunless %}
+  {% capture now %}{{'now' | date: '%Y-%m-%d'}}{% endcapture %}
+  {% assign sorted_posts = site.posts | sort:"date_from" | reversed %}
+  {% for post in sorted_posts %}
+  {% capture date_from %}{{post.date_from | date: '%Y-%m-%d'}}{% endcapture %}
+  {% capture date_to %}{{post.date_to | date: '%Y-%m-%d'}}{% endcapture %}
+
+  {% if date_from >= now or now <= date_to %}
+  {
+    "title"    : "{{ post.title | escape }}",
+    "tags"     : "{{ post.tags | array_to_sentence_string }}",
+    "url"      : "{{ site.baseurl }}{{ post.url }}",
+    "date"     : 
+    {% if post.date_from == post.date_to %}
+      "{{ post.date_from | date_to_string }}"
+    {% else %}
+      "{{post.date_from | date: '%d'}} - {{post.date_to | date: '%d %b %Y'}}"
+    {% endif %}
+  } {% unless forloop.last %},{% endunless %}
+  {% endif %}
   {% endfor %}
 ]

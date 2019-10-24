@@ -22,13 +22,10 @@ $bg
 	.logo a
 		color main
 		text-decoration none
-		font-size rem(28px)
-		&:after
-			transition all .4s
-			content '</> C.D'
-			+above(cut)
-				content '</> Conferências.Dev'
-
+		vertical-align middle
+		height rem(30px)
+		content url('../img/conferencias-dev.svg')
+			
 // Header Post
 .header-post
 	@extends $bg

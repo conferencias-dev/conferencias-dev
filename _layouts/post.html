@@ -1,6 +1,9 @@
+---
+layout: compress
+---
+
 <!DOCTYPE html>
-<html lang="en" itemscope itemtype="http://schema.org/BlogPosting"
-    {% if page.main-class %}class="post-{{ page.main-class }}" {% endif %}>
+<html lang="en" itemscope itemtype="http://schema.org/BlogPosting">
 {% include head.html %}
 
 <body>
@@ -10,14 +13,22 @@
 
         <article role="article" id="post" class="post-content" itemprop="articleBody">
             {{ content }}
+
+            <p>
+                Mais informações em: <a href="{{ page.link }}" title="{{ page.title }}">{{ page.link }}</a>
+            </p>
         </article>
 
+
+        {% if page.comments != false %}
+        {% include comments.html %}
+        {% endif %}
         {% include follow.html %}
         {% include footer.html %}
     </section>
-{% if jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
 </body>
 
 </html>

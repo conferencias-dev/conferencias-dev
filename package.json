@@ -1,7 +1,7 @@
 {
-  "name": "cardsjekyll",
+  "name": "conferencias-dev",
   "version": "1.0.0",
-  "description": "A simple template for Jekyll Blogs.",
+  "description": "Agregador das maiores conferências de desenvolvimento do Brasil",
   "main": "gulpfile.js",
   "scripts": {
     "test": "test"
@@ -15,8 +15,8 @@
     "jekyll",
     "js"
   ],
-  "author": "Willian Justen de Vasconcellos",
-  "license": "ISC",
+  "author": "Conferências.Dev",
+  "license": "MIT",
   "devDependencies": {
     "autoprefixer-stylus": "^0.4.0",
     "browser-sync": "^1.9.0",
@@ -32,5 +32,9 @@
     "jeet": "=6.1.2",
     "kouto-swiss": "^0.11.14",
     "rupture": "^0.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/conferencias-dev/conferencias-dev.git"
   }
 }

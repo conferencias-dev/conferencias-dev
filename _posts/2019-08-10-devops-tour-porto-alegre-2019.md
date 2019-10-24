@@ -1,16 +1,13 @@
 ---
 layout: post
 title: 'DevOps Tour Porto Alegre 2019'
-date: 2019-08-10
+date_from: 2019-08-10
+date_to: 2019-08-10
 description: 'Um evento que tem como objetivo discutir, ferramentas, práticas e cases relacionados a adoção de práticas DevOps.'
-main-class: 'dev'
-color: '#637a91'
+link: 'https://www.devopstour.com/portoalegre'
 tags:
 - devops
 - rs
-categories:
-twitter_text: 'Um evento que tem como objetivo discutir, ferramentas, práticas e cases relacionados a adoção de práticas DevOps.'   # Texto do tweet. Pode ser igual a descrição.
-introduction: 'Um evento que tem como objetivo discutir, ferramentas, práticas e cases relacionados a adoção de práticas DevOps. '   # Texto que vai aparecer embaixo do título no post.
 ---
 
 # O que é o DevOps Tour
@@ -46,5 +43,3 @@ A UniRitter - integrante da rede global líder em ensino superior Laureate Inter
 A KingHost esta oferencendo um desconto na inscrição da conferência!
 
 Use o código `king15` no momento da inscrição.
-
-Link oficial da conferência: [https://www.devopstour.com/portoalegre](https://www.devopstour.com/portoalegre)
