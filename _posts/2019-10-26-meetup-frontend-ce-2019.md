@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '08 Meetup Front-End CE | Acesibilidade, CSS, Vue e Preact'
+title: '08 Meetup Front-End CE | Acessibilidade, CSS, Vue e Preact'
 date_from: 2019-10-26
 date_to: 2019-10-26
 description: 'Meetup de desenvolvimento Frontend no Ceará'
