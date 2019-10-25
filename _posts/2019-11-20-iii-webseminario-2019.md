@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Web.br 2019'
+title: 'III Webseminário'
 date_from: 2019-11-20
 date_to: 2019-11-22
 description: 'Faculdade de Educação | III Webseminário: Formação Docente, Educação, Comunicação e Tecnologia'
