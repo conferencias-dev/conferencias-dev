@@ -7,8 +7,7 @@ description: 'A Python Nordeste é o maior encontro da comunidade Python na regi
 link: 'https://2020.pythonnordeste.org/'
 tags:
 - python
-- ne
-- fortaleza
+- ce
 ---
 
 A Python Nordeste é o maior encontro da comunidade Python na região. É um evento itinerante que ocorre anualmente nas cidades do Nordeste.
