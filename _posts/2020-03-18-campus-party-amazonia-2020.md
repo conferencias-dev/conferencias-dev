@@ -7,7 +7,7 @@ description: 'Conferência imersiva em tecnologia.'
 link: 'https://brasil.campus-party.org/campus-party-amazonia/'
 tags:
 - geral
-- AM
+- am
 ---
 
 A Campus Party é uma jornada totalmente multidisciplinar, proporcionando desafios e atividades diariamente. É um evento que abraça não somente pessoas de TI.
