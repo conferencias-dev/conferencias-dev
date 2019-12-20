@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Campus Party Amazônia'
+title: 'Campus Party Amazônia 2020'
 date_from: 2020-03-18
 date_to: 2020-03-22
 description: 'Conferência imersiva em tecnologia.'
