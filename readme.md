@@ -22,8 +22,8 @@ Template:
 ---
 layout: post                                                # Layout do post, deixar por padrão post.
 title: 'Título da sua conferência 2019'                     # Título da conferência.
-date_from: 2019-01-01                                       # Data de início da conferência no formado yyyy-mm-dd sem aspas.
-date_to: 2019-01-01                                         # Data de encerramento da conferência no formado yyyy-mm-dd sem aspas.
+date_from: 2019-01-01                                       # Data de início da conferência no formato yyyy-mm-dd sem aspas.
+date_to: 2019-01-01                                         # Data de encerramento da conferência no formato yyyy-mm-dd sem aspas.
 description: 'Aquela mega descrição da sua conferência!'    # Descrição da conferência.
 link: 'https://sua.conferencia.com.br'                      # Link oficial da conferência.
 tags:                                                       # Lista de tags associadas a sua conferência. Ex: Linguagem (js) e estado (sp). Caso seja mais de uma linguagem use apenas geral.
