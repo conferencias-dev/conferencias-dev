@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Devopsdays Vitória 2020'
+title: 'DevOpsDays Vitória 2020'
 date_from: 2020-02-08
 date_to: 2020-02-08
-description: 'O DevopsDays em Vitória!'
+description: 'O DevOpsDays em Vitória!'
 link: 'https://devopsdays.org/events/2020-vitoria/welcome/'
 tags:
 - devops
