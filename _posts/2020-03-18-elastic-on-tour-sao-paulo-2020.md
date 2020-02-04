@@ -3,9 +3,9 @@ layout: post
 title: 'Elastic{ON} Tour São Paulo'
 date_from: 2020-03-18
 date_to: 2020-03-18
-description: 'OBSERVABILITY, SECURITY, ENTERPRISE SEARCH, E MUITO MAIS'
-link: 'https://www.elastic.co/elasticon/tour/sao-paulo-pt'                      # Link oficial da conferência.
-tags:                                                       # Lista de tags associadas a sua conferência. Ex: Linguagem (js) e estado (sp). Caso seja mais de uma linguagem use apenas geral.
+description: 'Observability, security, enterprise search e muito mais!'
+link: 'https://www.elastic.co/elasticon/tour/sao-paulo-pt'
+tags:                                                       
 - elastic
 - sp
 ---
