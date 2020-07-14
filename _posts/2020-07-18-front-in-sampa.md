@@ -2,7 +2,7 @@
 layout: post
 title: 'Front In Sampa'
 date_from: 2020-07-18
-date_to: 2020-0718
+date_to: 2020-07-18
 description: 'Um dos mais tradicionais eventos de Front de SP!'
 link: 'https://www.frontinsampa.com.br/'
 tags:
