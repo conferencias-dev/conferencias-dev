@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PHP Conference Brasil'
+title: 'PHP Conference Brasil 2020'
 date_from: 2020-12-03
 date_to: 2020-12-05
 description: 'O Principal Evento de PHP da América Latina'
