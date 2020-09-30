@@ -10,9 +10,9 @@ tags:                                                       # Lista de tags asso
 - sc
 ---
 
-Dentro das atividades da Hacktoberfest em Joinville estamos promovendo um dia de sprint para ajudar no desenvolvimento e manutenção de projeto de código aberto e que traga alguma melhoria para a nossa sociedade.
+Dentro das atividades da Hacktoberfest em Joinville estamos promovendo um dia de sprint para ajudar no desenvolvimento e manutenção de projetos de código aberto e que traga alguma melhoria para a nossa sociedade.
 
-Esse ano vamos focar no Projeto Querido Diário, que segundo no site dos projeto:
+Esse ano vamos focar no Projeto Querido Diário, que segundo o site do projeto:
 
 "O Querido Diário é um projeto de código aberto da Open Knowledge Brasil (OKBR) que vai usar a tecnologia para libertar e centralizar as informações publicadas nos diários oficiais dos municípios, hoje presas em PDFs obscuros de acesso complicado."
 
