@@ -1,15 +1,13 @@
 ---
 layout: post
-title: 'Azure Academy - Trilha Pocket - Data Factory Day - online - pago'
+title: 'Azure Academy - Trilha Pocket - Data Factory Day'
 date_from: 2020-10-17
 date_to: 2020-10-17
-description: 'Azure Academy - Trilha Pocket - Data Factory Day - online - pago'
+description: 'Aulas ao vivo, desafios de projetos e interatividade em tempo real com especialistas'
 link: 'https://www.meetup.com/pt-BR/azureBrasilComunidade/events/273271398/'
 tags:
-- Azure
-- Evento
-- Azure Academy
-
+- azure
+- online
 ---
 Detalhes
 
