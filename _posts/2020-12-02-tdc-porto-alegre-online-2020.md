@@ -3,12 +3,10 @@ layout: post
 title: 'TDC Porto Alegre Online'
 date_from: 2020-12-02
 date_to: 2020-12-04
-description: 'TDC Porto Alegre Online'
+description: 'TDC é o maior evento relacionado a desenvolvimento de software no Brasil'
 link: 'https://thedevconf.com/tdc/2020/poaonline/'
 tags:
-- TDC Porto Alegre
-- Evento
-- Online
+- online
 
 ---
 Detalhes
