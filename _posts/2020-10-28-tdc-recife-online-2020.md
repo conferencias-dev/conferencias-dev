@@ -6,7 +6,7 @@ date_to: 2020-10-30
 description: 'The Developers Conference Online - Recife'
 link: 'https://thedevconf.com/tdconline'
 tags:
-- tdc
+- geral
 - online
 ---
 
