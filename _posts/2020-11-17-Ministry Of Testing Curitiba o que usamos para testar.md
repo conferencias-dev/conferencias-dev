@@ -6,7 +6,7 @@ date_to: 2020-11-17
 description: 'Ministry Of Testing Curitiba: o que usamos para testar?'
 link: 'https://www.meetup.com/pt-BR/Ministry-of-Testing-Curitiba/events/268656279/'
 tags:
-- Testing
+- online
 - meetup
 ---
 EEEEEEEEEEEE VAMOS PARA A SEGUNDA EDIÇÃO! 💬💬
