@@ -6,7 +6,7 @@ date_to: 2020-10-03
 description: 'Azure Weekend Online #2: totalmente gratuito! - Meetup'
 link: 'https://www.meetup.com/pt-BR/dotnet-Sao-Paulo/events/273429318/'
 tags:
-- azure weekend
+- geral
 - online
 - meetup
 ---
