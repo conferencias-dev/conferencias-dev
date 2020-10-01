@@ -1,14 +1,13 @@
 ---
 layout: post
-title: 'MSP Summit - Maior Evento Brasileiro de Serviços Gerenciados de TI [ed. especial - VIRTUAL]'
+title: 'MSP Summit - Evento Brasileiro de Serviços Gerenciados de TI'
 date_from: 2020-10-22
 date_to: 2020-10-23
 description: 'Maior Evento Brasileiro de Serviços Gerenciados de TI [ed. especial - VIRTUAL]'
 link: 'https://mspsummit.com.br/'
 tags:
-- MSP Summit
-- Evento
-- Serviços Gerenciados de TI
+- geral
+- online
 
 ---
 Detalhes
