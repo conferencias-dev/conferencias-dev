@@ -6,7 +6,7 @@ date_to: 2020-10-03
 description: 'API Connect Conference 2020'
 link: 'https://prensa.li/apicon/apicon-online-2020/'
 tags:
-- api
+- geral
 - online
 ---
 
