@@ -6,7 +6,7 @@ date_to: 2020-10-17                                         # Data de encerramen
 description: 'Nosso objetivo é, além da de ajudar no projeto, ensinar a todos como é fácil começar a colaborar em projeto open-source, seja escrevendo código, dando palpite em algum detalhe ou simplesmente aprendendo sobre o assunto.'    # Descrição da conferência.
 link: 'https://www.meetup.com/pt-BR/data-science-joinville/events/273488160/'                      # Link oficial da conferência.
 tags:                                                       # Lista de tags associadas a sua conferência. Ex: Linguagem (js) e estado (sp). Caso seja mais de uma linguagem use apenas geral.
-- data science
+- data-science
 - sc
 ---
 
