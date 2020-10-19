@@ -3,7 +3,7 @@ layout: post
 title: 'REACTCONF'
 date_from: 2020-11-21
 date_to: 2020-11-21
-description: 'BLEEDING EDGE DEVELOPMENT'
+description: 'Bleeding Edge Development'
 link: 'https://reactconf.com.br'
 tags:
 - js
