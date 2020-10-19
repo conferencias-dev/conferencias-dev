@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REACTCONF'
+title: 'ReactConf'
 date_from: 2020-11-21
 date_to: 2020-11-21
 description: 'Bleeding Edge Development'
