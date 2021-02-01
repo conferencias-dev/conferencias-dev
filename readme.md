@@ -10,8 +10,6 @@ O projeto foi criado para ser totalmente colaborativo, feito da comunidade para 
 
 Além de deixar o seu GitHub verdinho, vai facilitar a vida de todos nós **devs** que nunca sabemos qual e quando será a próxima conferência a ocorrer!
 
-**OBS:** Em geral não consideramos meetups mensais (a não ser algum meetup específico e não recorrente) como uma conferência ou evento elegível para ser listado no **conferencias.dev**. Acreditamos que para meetup já existem outras soluções maiores e já validadas como o meetup.com
-
 ## Modelo de PR para conferências
 
 Nome do arquivo: `yyyy-mm-dd-titulo-da-sua-conferencia-yyyy.md`
@@ -21,9 +19,9 @@ Template:
 ```markdown
 ---
 layout: post                                                # Layout do post, deixar por padrão post.
-title: 'Título da sua conferência 2019'                     # Título da conferência.
-date_from: 2019-01-01                                       # Data de início da conferência no formato yyyy-mm-dd sem aspas.
-date_to: 2019-01-01                                         # Data de encerramento da conferência no formato yyyy-mm-dd sem aspas.
+title: 'Título da sua conferência 2020'                     # Título da conferência.
+date_from: 2020-01-01                                       # Data de início da conferência no formato yyyy-mm-dd sem aspas.
+date_to: 2020-01-01                                         # Data de encerramento da conferência no formato yyyy-mm-dd sem aspas.
 description: 'Aquela mega descrição da sua conferência!'    # Descrição da conferência.
 link: 'https://sua.conferencia.com.br'                      # Link oficial da conferência.
 tags:                                                       # Lista de tags associadas a sua conferência. Ex: Linguagem (js) e estado (sp). Caso seja mais de uma linguagem use apenas geral.
